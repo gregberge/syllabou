@@ -1,0 +1,3 @@
+# Syllabou
+
+Random word generator
