@@ -1,0 +1,8 @@
+{
+  "name": "syllabou",
+  "version": "0.1.0",
+  "dependencies": {
+    "bootstrap.css": "~2.1.1",
+    "jquery": "~1.9.1"
+  }
+}
